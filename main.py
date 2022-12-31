@@ -1,4 +1,4 @@
-# Enviar saludo a consola con Python
+# Condicional If Else. Dado un número determinar si este es par o impar.
 resultado = int(input("Ingresa un número: "))
 
 if resultado % 2 == 0:
