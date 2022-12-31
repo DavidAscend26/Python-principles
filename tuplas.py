@@ -9,6 +9,7 @@ for fruta in frutas:
 #...a menos que se convierta la tupla a una lista, se hagan los cambios necesarios...
 frutasLista = list(frutas)
 frutasLista[0] = "Pera"
+
 #...y se convierta la lista a tupla nuevamente
 frutas = tuple(frutasLista)
 print(frutas)
